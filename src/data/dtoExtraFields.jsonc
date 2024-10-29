@@ -688,6 +688,11 @@
       "type": "integer",
       "format": "int32",
       "x-type": "int"
+    },
+    "bountyGold": {
+      "type": "number",
+      "format": "double",
+      "x-type": "double"
     }
   }
 }
